@@ -6,6 +6,7 @@ import { About } from "@/components/About";
 import { Testimonials } from "@/components/Testimonials";
 import { Gallery } from "@/components/Gallery";
 import { CTA } from "@/components/CTA";
+import { StorePreview } from "@/components/StorePreview";
 import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
 import { StickyWhatsApp } from "@/components/StickyWhatsApp";
@@ -20,6 +21,7 @@ export default function Home() {
         <Services />
         <About />
         <Testimonials />
+        <StorePreview />
         <Gallery />
         <CTA />
         <Contact />
