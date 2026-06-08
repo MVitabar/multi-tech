@@ -148,7 +148,7 @@ export function Hero() {
                 alt="Celular e notebook flutuando"
                 width={1280}
                 height={1024}
-                className="h-auto w-full drop-shadow-[0_30px_60px_rgba(0,210,255,0.25)]"
+                className="h-auto w-full drop-shadow-[0_30px_60px_rgba(220,38,38,0.25)]"
               />
             </div>
           </div>
